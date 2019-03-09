@@ -1,5 +1,8 @@
 {
 .appVersion = "1192";
+DisplayStrings = (
+B
+);
 copyright = "KURT DANIEL LEOPOLD WEISS";
 date = "2019-03-08 08:40:16 +0000";
 designer = "KURT DANIEL LEOPOLD WEISS";
