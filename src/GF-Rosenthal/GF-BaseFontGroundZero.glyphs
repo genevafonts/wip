@@ -68,9 +68,51 @@ unicode = 0041;
 },
 {
 glyphname = B;
+lastChange = "2019-03-09 07:16:14 +0000";
 layers = (
 {
 layerId = "2F33D5D9-7F67-496F-8B58-544BE496D9C6";
+paths = (
+{
+closed = 1;
+nodes = (
+"66 698 LINE",
+"165 699 OFFCURVE",
+"327 700 OFFCURVE",
+"363 700 CURVE SMOOTH",
+"400 700 OFFCURVE",
+"558 417 OFFCURVE",
+"357 350 CURVE",
+"490 297 OFFCURVE",
+"508 247 OFFCURVE",
+"507 169 CURVE SMOOTH",
+"506 91 OFFCURVE",
+"396 6 OFFCURVE",
+"269 6 CURVE",
+"61 -3 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"187 51 LINE",
+"249 90 OFFCURVE",
+"372 61 OFFCURVE",
+"372 169 CURVE",
+"187 259 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"179 434 LINE",
+"237 469 OFFCURVE",
+"366 453 OFFCURVE",
+"352 538 CURVE",
+"179 606 LINE"
+);
+}
+);
 width = 600;
 }
 );
